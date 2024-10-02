@@ -1,0 +1,17 @@
+TOPIC
+    about_NetConMonitor
+
+SHORT DESCRIPTION
+    This module assists with the creation of WMI subscriptions to monitor for, and log, new outbound network connections on one or more systems. Subscriptions can be either ephemeral (session only) or persistent, depending on whether the monitor needs to persist through reboots.
+
+LONG DESCRIPTION
+    This module assists with the creation of WMI subscriptions to monitor for, and log, new outbound network connections on one or more systems. Subscriptions can be either ephemeral (session only) or persistent, depending on whether the monitor needs to persist through reboots.
+
+EXAMPLES
+    TBD
+
+KEYWORDS
+    monitor, wmi, network
+
+SEE ALSO
+    https://github.com/merddyin/NetConMonitor

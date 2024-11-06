@@ -1,2 +1,2 @@
-UnRegister-NLog
-Remove-Module NlogModule
+Disable-NLogLogging
+Remove-Module PSNlog

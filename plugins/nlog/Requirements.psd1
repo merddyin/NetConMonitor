@@ -2,8 +2,8 @@
     PSDependOptions = @{
         Target = '$DependencyFolder'
     }
-    NLogModule =@{
-        version = '0.0.2'
+    PSNLog =@{
+        version = '0.2.5'
         source = 'PSGalleryModule'
     }
 }
